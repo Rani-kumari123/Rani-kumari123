@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Rani Kumari
 
-<!--
-**Rani-kumari123/Rani-kumari123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Aspiring Full Stack Web Developer  
+🌱 Currently learning Web Development, C++ and DSA
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C++
+- HTML
+- CSS
+- JavaScript
+- Data Structures & Algorithms
+- Git & GitHub
+
+## 📌 Projects
+
+- Student Record Manager – C++ & DSA
+- Student Profile Website – HTML & CSS
+- Restaurant Website – HTML & CSS
+
+## 🎯 Career Goal
+
+To become a skilled Full Stack Web Developer
+and build real-world applications.
+
+## 📚 Currently Learning
+
+- JavaScript
+- React.js
+- Node.js
+- MongoDB
+
+
